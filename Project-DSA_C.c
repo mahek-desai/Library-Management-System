@@ -1,7 +1,3 @@
-//Ds Asssignment -- A6
-//24BCE519(Mahek Desai)
-//24BCE520(Mahetar Aftab)
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

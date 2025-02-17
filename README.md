@@ -4,7 +4,7 @@ This project is a Library Management System developed using C with a Tree Data S
 
 Key Features
 Book Management
-Add Books: Add new books to the library with details such as title, author, genre, ISBN, and availability status.
+Add Books: Add new books to the library with details such as title, and availability status.
 Delete Books: Remove books from the library collection.
 Search Books: Quickly search for books using title, author, or ISBN.
 View Books: Display the list of all available books in the library.
